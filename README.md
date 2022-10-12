@@ -1,5 +1,5 @@
 # 05-work-schedule
-
+# Description 
 
 # 05 Third-Party APIs: Work Day Scheduler
 
@@ -33,4 +33,3 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
-
