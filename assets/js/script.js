@@ -2,6 +2,7 @@ var weekDay = moment().format("ddd MMM Do, YYYY");
 var currenthour=moment().hour ()
 console.log(currenthour)
 $("#currentDay").text(weekDay);
+
 function createrows(){
     for(var i=7;i<15;i++){
         var currently;
