@@ -9,3 +9,6 @@ While building this project I learned to:
 - Loop through an array of elements selected from the DOM
 - Send user input to local storage
 - Display items saved to local storage
+## Link
+
+To see the deployed site, refer to:
