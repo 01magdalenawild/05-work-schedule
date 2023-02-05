@@ -11,4 +11,4 @@ While building this project I learned to:
 - Display items saved to local storage
 ## Link
 
-To see the deployed site, refer to:
+To see the deployed site, refer to: https://01magdalenawild.github.io/05-work-schedule/
