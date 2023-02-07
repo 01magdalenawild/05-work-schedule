@@ -1,5 +1,8 @@
 # 05-work-schedule
-## Description
+
+![screenshot](/assets/images/screenshot.png)
+
+## description
 
 Social Network API is a server database that allows the user to make an use wirh browser
 
